@@ -1,0 +1,45 @@
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.exe
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.deps.json
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.runtimeconfig.json
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.runtimeconfig.dev.json
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.dll
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.pdb
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.csprojAssemblyReference.cache
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.Form1.resources
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.csproj.GenerateResource.cache
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.AssemblyInfoInputs.cache
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.AssemblyInfo.cs
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.csproj.CoreCompileInputs.cache
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.dll
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.pdb
+E:\2 курс\2 семестр\ГД\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.genruntimeconfig.cache
+C:\Users\HallCat\Desktop\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.exe
+C:\Users\HallCat\Desktop\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.deps.json
+C:\Users\HallCat\Desktop\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.runtimeconfig.json
+C:\Users\HallCat\Desktop\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.runtimeconfig.dev.json
+C:\Users\HallCat\Desktop\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.dll
+C:\Users\HallCat\Desktop\prime_number\prime_number\bin\Debug\netcoreapp3.1\prime_number.pdb
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.csprojAssemblyReference.cache
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.Form1.resources
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.csproj.GenerateResource.cache
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.AssemblyInfoInputs.cache
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.AssemblyInfo.cs
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.csproj.CoreCompileInputs.cache
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.dll
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.pdb
+C:\Users\HallCat\Desktop\prime_number\prime_number\obj\Debug\netcoreapp3.1\prime_number.genruntimeconfig.cache
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\bin\Debug\netcoreapp3.1\prime_number.exe
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\bin\Debug\netcoreapp3.1\prime_number.deps.json
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\bin\Debug\netcoreapp3.1\prime_number.runtimeconfig.json
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\bin\Debug\netcoreapp3.1\prime_number.runtimeconfig.dev.json
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\bin\Debug\netcoreapp3.1\prime_number.dll
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\bin\Debug\netcoreapp3.1\prime_number.pdb
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.csprojAssemblyReference.cache
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.Form1.resources
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.csproj.GenerateResource.cache
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.AssemblyInfoInputs.cache
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.AssemblyInfo.cs
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.csproj.CoreCompileInputs.cache
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.dll
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.pdb
+C:\Users\HallCat\Desktop\prime_number\GD\prime_number\obj\Debug\netcoreapp3.1\prime_number.genruntimeconfig.cache
